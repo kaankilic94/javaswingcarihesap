@@ -2,7 +2,7 @@
 <p>
 Cari hesap işlemleri yapan işletmeler için yazılmış masaüstü uygulamasıdır. Uygulamaya kullanıcı adı ve parolası ile giriş yapılabilmektedir. Uygulamada müşteriler, ürünler ve kategoriler için ekleme, silme düzenleme işlemleri yapılabilmekte, satış yönetimi kısmından ürünler, müşterilere satılabilmekte, raporlama kısmında çeşitli filtreleme seçenekleri kullanılarak raporlama yapılabilmektedir. 
   
-# Proje Ekran Fotoğrafları
+# Proje Ekran Görüntüleri
 <p>
   
 <a href="https://github.com/kaankilic94/javaswingcarihesap/blob/master/screenshots/1.png" target="_blank">
